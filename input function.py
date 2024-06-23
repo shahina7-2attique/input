@@ -1,0 +1,6 @@
+name=input("your name : ")
+print(name)
+father_name=input("your father name: ")
+print(father_name)
+Age=int(input("Your age: "))
+print(Age)
